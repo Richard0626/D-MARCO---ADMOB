@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345469948371",
+    "project_id": "tecsup-mobile-2022-rgfa",
+    "storage_bucket": "tecsup-mobile-2022-rgfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345469948371:android:48a11e894810b07928df26",
+        "android_client_info": {
+          "package_name": "com.fernandez.aplicacionsensores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345469948371-0mtpdujgjal0nel55f3gfpfhjhbplp5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6cSrOMmuaQWU5tcSpw7g2kMyqsDhwN84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345469948371-0mtpdujgjal0nel55f3gfpfhjhbplp5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
